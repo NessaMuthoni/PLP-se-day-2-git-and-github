@@ -1,0 +1,97 @@
+Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
+-Timely delivery ensures customer satisfaction, prevents cost overruns, maintains a competitive edge, and builds trust with stakeholders.
+Strategies to Meet Deadlines:
+  -Clear requirements & scope from the start
+  -Realistic time estimates using historical data
+  -Agile methodologies for iterative progress
+  -Project tracking tools (e.g., Jira, Trello, Asana)
+  -Risk management to anticipate delays
+  -Strong team collaboration & communication
+
+How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+ -Keeps the project financially viable, prevents resource wastage, and ensures profitability.
+By:
+-Accurate cost estimation using expert judgment or analogous estimation
+-Budget monitoring through tools like Microsoft Project or Cost Performance Index (CPI)
+-Scope management to prevent unnecessary additions (scope creep)
+-Efficient resource allocation with clear accountability
+
+Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+-Agile follows an iterative and incremental model, allowing for flexibility and continuous adaptation to changing requirements. Customer involvement is high, with frequent feedback loops ensuring that the final product meets evolving user needs. Agile teams work in short development cycles, delivering small, functional releases regularly.
+-Waterfall follows a structured, sequential approach, where each phase—such as planning, design, implementation, testing, and deployment—must be completed before moving to the next. This methodology works best for projects with fixed requirements and minimal expected changes.
+
+In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+ -Agile is most beneficial when projects require flexibility and rapid iteration. For example, a startup developing a mobile app benefits from Agile’s adaptability, as user feedback can shape feature updates continuously. 
+ -Waterfall is ideal for projects with well-defined, stable requirements. A government agency building a tax filing system follows strict regulations, making Waterfall a better choice because of its structured planning and comprehensive documentation.
+
+What are some methods for ensuring quality assurance throughout a software project?
+-Automated Testing: Uses scripts and tools to test software efficiently.
+-Manual Testing: Involves human testers executing test cases to find issues.
+-Code Reviews: Developers review each other's code for bugs and improvements.
+-User Acceptance Testing (UAT): End-users test the system before final release.
+
+ Why is it important to maintain high standards?
+-Prevents Software Failures: Ensures the product functions correctly.
+-Enhances User Satisfaction: Provides a smooth and bug-free experience.
+-Saves Costs: Detecting and fixing issues early reduces development costs.
+-Ensures Security: Identifies vulnerabilities before they become risks.
+
+How does defining the project scope contribute to successful project planning?
+-Clearly outlines project goals, deliverables, and constraints.
+-Prevents scope creep by setting clear boundaries.
+-Helps allocate resources effectively.
+-Improves stakeholder alignment and expectations.
+
+ What is a Work Breakdown Structure (WBS), and why is it useful?
+-A Work Breakdown Structure (WBS) breaks down a project into smaller, manageable tasks.
+-Helps in organizing work efficiently and assigning responsibilities.
+-Improves project tracking and progress monitoring.
+-Reduces complexity by breaking large projects into smaller parts.
+
+What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Benefits of a Project Schedule:
+-Ensures tasks are completed on time.
+-Helps manage resources efficiently.
+-Provides a roadmap for project execution.
+-Improves team coordination and accountability.
+How Gantt Charts Help:
+-Visually represent project timelines and dependencies.
+-Track progress of different tasks in real-time.
+-Help identify potential delays and bottlenecks.
+-Aid in effective resource planning.
+
+
+What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core Issues Addressed by the Software:
+Identifies key pain points that the software aims to solve.
+Determines why these problems are significant to the target audience.
+Ensures the solution aligns with user needs and expectations.
+
+How can clearly defining the problem help in developing a more effective software solution?
+-Ensures the software directly addresses user pain points.
+-Helps avoid unnecessary features, reducing development time and costs.
+-Improves user satisfaction by delivering a targeted solution.
+-Enhances clarity in requirements, minimizing scope creep.
+
+How would you describe your software solution in a way that captures its essence without diving into technical details?
+-Focus on the problem it solves and its benefits.
+-Use simple, relatable language that resonates with users.
+-Highlight ease of use, efficiency, and impact.
+
+What are the main features or functionalities that make your software stand out?
+-Unique value proposition (e.g., automation, customization, AI-driven insights).
+-User-friendly interface and seamless experience.
+-Scalability and adaptability to different user needs.
+-Security, performance, and integration with existing tools.
+
+What data is available regarding the market size and growth potential for your software?
+-Total Addressable Market (TAM) and industry reports.
+-Competitor analysis and adoption trends.
+-Revenue forecasts and emerging demand for similar solutions.
+-Investment trends in the industry showing growth opportunities.
+
+How can understanding market trends inform your software’s positioning and development?
+-Identifies user expectations and industry shifts.
+-Helps prioritize high-demand features and innovations.
+-Guides pricing, monetization, and competitive differentiation.
+-Ensures alignment with future technology advancements and regulations.
